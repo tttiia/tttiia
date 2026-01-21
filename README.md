@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**tttiia/tttiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Tiia, a student in information technology
 I'm interested in hardware development, health technology and 3D modeling. 
