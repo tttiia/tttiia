@@ -19,4 +19,4 @@ I enjoy working on practical projects where software meets hardware and real-wor
 - Project 3 – Short description and technologies
 
 ### 📫 Contact
-- LinkedIn: [(https://www.linkedin.com/in/tiia-tuomela/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bngrrn8WIRjCtbc5Q50MC5w%3D%3D)]
+- LinkedIn: [Tiia](https://www.linkedin.com/in/tiia-tuomela/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bngrrn8WIRjCtbc5Q50MC5w%3D%3D)
