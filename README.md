@@ -14,7 +14,7 @@ I enjoy working on practical projects where software meets hardware and real-wor
 - automation testing - Jenkins
 
 ### 🚀 Featured Projects
-- [air quality indicator](https://github.com/eerikapolkky/Airquality_indicator_proto.git) school project from spring 2025 
+- [air quality indicator](https://github.com/eerikapolkky/Airquality_indicator_proto.git) software application project from spring 2025 
 
 ### 📫 Contact
 - LinkedIn: [Tiia](https://www.linkedin.com/in/tiia-tuomela/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bngrrn8WIRjCtbc5Q50MC5w%3D%3D)
