@@ -9,4 +9,6 @@ I enjoy working on practical projects where software meets hardware and real-wor
 - programming: [C, C++, VHDL, python]
 - embedded systems & hardware-related development
 - 3D modeling: [solidworks, kicad]
-- Git & Github
+- PCB layout
+- KPI reporting, Grafana
+- automation testing - Jenkins
